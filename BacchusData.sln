@@ -1,0 +1,10 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "BacchusData", "Database\BacchusData.dbp", "{97C96A49-04E5-4532-874E-94ACCBF882FE}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
